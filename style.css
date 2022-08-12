@@ -1,0 +1,17 @@
+body {
+    border: 15px;
+    border-style: double;
+
+}
+
+h1 {
+    color:navy
+}
+
+#mainpage {
+    color: brown
+}
+
+div {
+    background-color:lightgray;
+}
